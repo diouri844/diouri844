@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **diouri844/diouri844** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋
+
+My name is in  salah, 22 years old, a bachelor at computer siences, I am a fullstack  developer, desktop developer and python expert, I love build 
+things with javascript and python ⚡, I' am in love with vueJs is really a great framework I am using it to build my client side application but actually I am most 
+Comfort on the back-end side, I am also a flexible developer that uses many powerful programing languages as  java, cpp, go, typescript......
+
+is nice to meet you 😉
+</code></pre>
