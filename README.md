@@ -18,9 +18,12 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Chopen</h1>
 <h3 align="center">Fullstack developer || python expert</h3>
 
-My name is in  salah, 22 years old, a bachelor at computer siences, I am a fullstack  developer, desktop developer and python expert, I love build 
-things with javascript and python ⚡, I' am in love with vueJs is really a great framework I am using it to build my client side application but actually I am most 
-Comfort on the back-end side, I am also a flexible developer that uses many powerful programing languages as  java, cpp, go, typescript......
+⚡Hi, my name is Salah, and I am a passionate full-stack developer with expertise in JavaScript and Python. With a strong foundation in JavaScript, I specialize in building robust and interactive web applications using popular client-side frameworks like Vue.js and React.js. Additionally, I have extensive experience with TypeScript, enhancing the development process with its static typing capabilities.
+
+On the back-end, I possess a wide range of skills and proficiency in powerful frameworks such as Express, Flask, Django, and Fiber. These frameworks enable me to create scalable and efficient server-side solutions, ensuring seamless communication between the front-end and back-end components of an application.
+
+As a dedicated professional, I thrive in collaborative environments and am always eager to contribute my skills and knowledge to a team. I am committed to continuously learning and staying up-to-date with the latest technologies and best practices in the field of web development.
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diouri844&label=Profile%20views&color=0e75b6&style=flat" alt="diouri844" /> </p>
 
@@ -28,16 +31,16 @@ Comfort on the back-end side, I am also a flexible developer that uses many powe
 
 <p align="left"> <a href="https://twitter.com/DiourSalah" target="blank"><img src="https://img.shields.io/twitter/follow/diourisalah?logo=twitter&style=for-the-badge" alt="DiourSalah" /></a> </p>
 
-- 🔭 I’m currently working on [Flask-cloud api](https://github.com/diouri844/Flask_cloud_api.git)
+- 🔭 I’m currently working on [**BeeKeeping-project**](https://github.com/BeeKeeping-v1)
 
-- 🌱 I’m currently learning **Svelletkit / fiber / pocketbase**
+- 🌱 I’m currently learning **svelte / fiber / pocketbase**
 
 - 💬 Ask me about **VueJs , React , Flask ,MongoDb**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/diourisalah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="diourisalah" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/salah iddine diouri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salah iddine diouri" height="30" width="40" /></a>
+<a href="https://twitter.com/DiourSalah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="diourisalah" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/salah-iddine-diouri-a67402277/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salah iddine diouri" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/salahiddine_dio1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="salahiddine_dio1" height="30" width="40" /></a>
 </p>
 
